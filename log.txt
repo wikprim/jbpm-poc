@@ -1,0 +1,6 @@
+1. GWT - console
+modul powinien imho zarzadzac tylko interfejsem do konsoli, sam nie odpowiada za przetwazanie procesow.
+konfiguracja znajduje sie w app/console.config.js oraz w xhp.json
+deployowanie modulu gdziekolwiek pozwoli na zarzadzanie wskazana instancja serwera
+
+
