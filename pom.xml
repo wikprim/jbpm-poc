@@ -13,6 +13,7 @@
         <module>gwt-console</module>
         <module>gwt-console-server</module>
         <module>jbpm-app</module>
+        <module>jbpm-server</module>
     </modules>
 
     <build>
